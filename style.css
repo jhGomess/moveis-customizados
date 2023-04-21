@@ -11,4 +11,16 @@
 
 body {
   font-size: 1.6rem;
+
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  text-align: center;
+  width: 59.2rem;
+  margin: 0 auto;
+}
+
+main h1 {
+  font-family: "Inter", sans-serif;
 }
