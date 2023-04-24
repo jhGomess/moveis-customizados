@@ -66,3 +66,9 @@ footer {
 footer a {
   color: var(--span-color);
 }
+
+.balls {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
