@@ -23,4 +23,10 @@ body {
 
 main h1 {
   font-family: "Inter", sans-serif;
+
+  margin: 7.2rem 0rem 3.2rem;
+}
+
+footer {
+  margin: 7.2rem 0rem 3.2rem;
 }
