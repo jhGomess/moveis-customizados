@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é uma page que simula um site de movéis customizados, projeto bem simples de ser desenvolvido e ótimo para quem está iniciando na carreira de desenvolvimento Web.
 
-- [Acesse o projeto finalizado, online](https://jhgomess.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://jhgomess.github.io/moveis-customizados/)
 
 ## 🔖 Layout
 
